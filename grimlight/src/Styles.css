@@ -1,0 +1,257 @@
+.HomeBG {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("https://images2.alphacoders.com/935/thumb-1920-935974.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.ClassesBG {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("https://i.imgur.com/FqVOkbq.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.DungeonsBG {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("https://i.imgur.com/8mcMlak.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Comments {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("https://i.imgur.com/5pR3SRu.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Installation {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("https://i.imgur.com/Kuj3YdN.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Story {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("https://i.imgur.com/yMQvG1F.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Navbar {
+  opacity: 0.9;
+  height: 7vh;
+}
+
+.Title {
+  text-align: center;
+}
+
+.TitleSize {
+  font-size: 5vw;
+  color: antiquewhite;
+  font-family: "Cinzel", serif;
+}
+
+.HomeContainer {
+  position: relative;
+  top: 30%;
+}
+
+.font-link {
+  font-family: "Cinzel", serif;
+}
+
+.DescriptionSize {
+  font-size: x-large;
+  color: white;
+  font-family: "Cinzel", serif;
+}
+
+.HomeButtonLocation {
+  position: relative;
+  top: 14vh;
+}
+
+.HomePlayNowButton {
+  height: 10vh;
+  width: 17vw;
+  background-color: darkred;
+  border-width: 0.3vw;
+  border-color: black;
+}
+
+.ButtonFontSize {
+  font-size: 2vw;
+  font-family: "Cinzel", serif;
+  color: white;
+}
+
+.ClassesTitle {
+  font-size: x-large;
+  color: white;
+  font-family: "Cinzel", serif;
+}
+
+.ClassesTitleRow {
+  padding-top: 3vh;
+  padding-bottom: 8vh;
+}
+
+.ClassesCard {
+  background: none;
+}
+
+.ClassButtonRow {
+  width: 25vw;
+  height: 12vh;
+}
+
+.ClassButton {
+  height: 8vh;
+  width: 15vw;
+  background: none;
+  border: none;
+  color: white;
+}
+
+.ClassButtonText {
+  font-size: 3vw;
+  font-family: "Cinzel", serif;
+}
+
+.ClassButtonTextClicked {
+  color: black;
+}
+
+.ClassButton:hover {
+  color: grey;
+}
+
+.Accordionlocation {
+  position: relative;
+  top: 10vh;
+}
+
+.ClassDescSize {
+  font-size: 2.5vw;
+  color: white;
+  font-family: "Cinzel", serif;
+}
+
+.DungeonButtonText {
+  font-size: 2vw;
+  font-family: "Cinzel", serif;
+}
+
+.TextareaLocation {
+  text-align: center;
+  padding-bottom: 0;
+}
+
+.TextareaSize {
+  padding-bottom: 0;
+  height: 20vh;
+  width: 40vw;
+}
+
+.FeedbackSubmit {
+  text-align: right;
+}
+
+.SubmitButton {
+  position: relative;
+  right: 14vw;
+  width: 7vw;
+  background-color: darkred;
+}
+
+.SubmitButton:hover {
+  background: red;
+}
+
+.StoryTitleRow {
+  padding-top: 3vh;
+  padding-bottom: 20vh;
+}
+.Storytext {
+  color: white;
+}
+.VideoPHolder {
+  position: relative;
+  background-color: white;
+  height: 30vh;
+  width: 35vw;
+  left: 10vw;
+  text-align: center;
+}
+
+.InstallBG {
+  background-color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+}
+
+.InstallRows {
+  height: 10vh;
+}
+
+.InstallTextColor {
+  color: white;
+  font-size: x-large;
+  opacity: 1;
+}
+
+.StoryBG {
+  background-color: rgba(0, 0, 0, 0.7);
+  text-align: left;
+  border-radius: 20px;
+}
+
+.NavPlayNow {
+  height: 5vh;
+  width: 10vw;
+  background-color: darkred;
+  border-width: 0.3vw;
+  border-color: black;
+}
+
+.NavPlayNow:hover {
+  background: red;
+}
+
+.HomePlayNowButton:hover {
+  background: red;
+}
+
+.ClassesNav {
+  height: 5vh;
+  width: 10vw;
+  background-color: darkred;
+  border-width: 0.3vw;
+  border-color: black;
+}
+
+.ClassesNavRow {
+  text-align: center;
+  padding-bottom: 4vh;
+}
